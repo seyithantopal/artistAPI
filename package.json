@@ -10,6 +10,7 @@
   "author": "Seyithan Topal <seyithan_41_@hotmail.com>",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.24.0",
     "express": "^4.17.1"
   }
 }
