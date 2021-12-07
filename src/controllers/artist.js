@@ -28,7 +28,7 @@ exports.getArtistsByName = async (req, res) => {
 
     const artists = await fetchArtists(artist_name);
     if (!artists.length) {
-      const readFile = common.readAndParseJSONFile('./utils/mockArtistData.json');
+      const readFile = common.readAndParseJSONFile('./src/utils/mockArtistData.json');
       return res.status(200).json({ message: 'OK', data: readFile });
     }
     await common.convertArtistsJSONToCSV(artists, file_name);
