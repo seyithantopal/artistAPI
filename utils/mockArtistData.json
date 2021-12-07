@@ -1,0 +1,120 @@
+{
+  "artists": [
+    {
+      "name": "artistName1",
+      "listeners": "artistListener1",
+      "mbid": "artistMbid1",
+      "url": "artistUrl1",
+      "streamable": "artistStreamable1",
+      "image": [
+        {
+            "#text": "artistImageSmall1",
+            "size": "small"
+        },
+        {
+            "#text": "artistImageMedium1",
+            "size": "medium"
+        },
+        {
+            "#text": "artistImageLarge1",
+            "size": "large"
+        },
+        {
+            "#text": "artistImageExtralarge1",
+            "size": "extralarge"
+        },
+        {
+            "#text": "artistImageMega1",
+            "size": "mega"
+        }
+      ]
+    },
+    {
+      "name": "artistName2",
+      "listeners": "artistListener2",
+      "mbid": "artistMbid2",
+      "url": "artistUrl2",
+      "streamable": "artistStreamable2",
+      "image": [
+        {
+            "#text": "artistImageSmall2",
+            "size": "small"
+        },
+        {
+            "#text": "artistImageMedium2",
+            "size": "medium"
+        },
+        {
+            "#text": "artistImageLarge2",
+            "size": "large"
+        },
+        {
+            "#text": "artistImageExtralarge2",
+            "size": "extralarge"
+        },
+        {
+            "#text": "artistImageMega2",
+            "size": "mega"
+        }
+      ]
+    },
+    {
+      "name": "artistName3",
+      "listeners": "artistListener3",
+      "mbid": "artistMbid3",
+      "url": "artistUrl3",
+      "streamable": "artistStreamable3",
+      "image": [
+        {
+            "#text": "artistImageSmall3",
+            "size": "small"
+        },
+        {
+            "#text": "artistImageMedium3",
+            "size": "medium"
+        },
+        {
+            "#text": "artistImageLarge3",
+            "size": "large"
+        },
+        {
+            "#text": "artistImageExtralarge3",
+            "size": "extralarge"
+        },
+        {
+            "#text": "artistImageMega3",
+            "size": "mega"
+        }
+      ]
+    },
+    {
+      "name": "artistName4",
+      "listeners": "artistListener4",
+      "mbid": "artistMbid4",
+      "url": "artistUrl4",
+      "streamable": "artistStreamable4",
+      "image": [
+        {
+            "#text": "artistImageSmall4",
+            "size": "small"
+        },
+        {
+            "#text": "artistImageMedium4",
+            "size": "medium"
+        },
+        {
+            "#text": "artistImageLarge4",
+            "size": "large"
+        },
+        {
+            "#text": "artistImageExtralarge4",
+            "size": "extralarge"
+        },
+        {
+            "#text": "artistImageMega4",
+            "size": "mega"
+        }
+      ]
+    }
+  ]
+}
